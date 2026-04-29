@@ -2,7 +2,11 @@
 
 ![Logo](FoodLogisticLogo.png)
 
-Autors: [nom dels components del grup]
+Autors: Nil Lozano i Anthony Milla
+
+## Url de la web
+
+[Url de la web](https://anthonymilla.github.io/Web-corporativa-FoodLogistic/)
 
 ## Descripció
 
